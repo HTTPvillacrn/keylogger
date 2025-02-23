@@ -1,0 +1,6 @@
+STEP 1: Open the Keylogger.py with VS Code studio
+
+STEP 2: Look for terminal at the top area
+
+STEP 3: type python Keylogger.py on it 
+
